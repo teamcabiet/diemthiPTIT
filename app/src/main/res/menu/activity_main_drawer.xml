@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_tkb"
+            android:icon="@drawable/ic_tkb"
+            android:title="@string/tkb" />
+        <item
+            android:id="@+id/nav_lichthi"
+            android:icon="@drawable/icon_lichthi"
+            android:title="@string/lichthi" />
+        <item
+            android:id="@+id/nav_diem"
+            android:icon="@drawable/ic_diem"
+            android:title="@string/diemthi" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_about"
+                android:title="@string/aboutus" />
+        </menu>
+    </item>
+
+</menu>

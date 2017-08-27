@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_marginTop="-1dp"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/tv_tenMon"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/call_shape"
+        android:gravity="center"
+        android:padding="5dp"
+        android:layout_weight="10"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/tv_diemCK"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/call_shape"
+        android:gravity="center"
+        android:padding="5dp"
+        android:layout_weight="5"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/tv_diemTB"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/call_shape"
+        android:gravity="center"
+        android:padding="5dp"
+        android:layout_weight="5"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/tv_diemChu"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/call_shape"
+        android:gravity="center"
+        android:padding="5dp"
+        android:layout_weight="5"
+        android:textColor="@color/black" />
+
+
+</LinearLayout>

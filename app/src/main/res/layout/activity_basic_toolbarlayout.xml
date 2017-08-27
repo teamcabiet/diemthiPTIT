@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+    <include layout="@layout/content_main" />
+    <include layout="@layout/toolbar" />
+
+    <!--  BugID : # F1B2HDNFC-208 : Toolbar need to be at the top
+      inorder to recieve the events regarding back button.
+      In case we need to bring content_main at th etop ,
+      use contentmain.bringToFront() in the code -->
+</android.support.design.widget.CoordinatorLayout>

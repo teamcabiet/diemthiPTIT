@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">DiemThiPTIT</string>
+
+    <string name="ok">OK</string>
+    <string name="package_value">package</string>
+    <string name="alert_permission">"Please accept permissions to continue"</string>
+    <string name="alert_use_version">"Phiên bản không còn khả dụng"</string>
+
+    <string name="font_medium">sans-serif-medium</string>
+    <string name="tra_cuu_diem">Tra cứu điểm thi</string>
+
+    <string name="masv">"Nhập vào MSV"</string>
+    <string name="submit">"Submit"</string>
+
+    <string name="exist_sv">"Sinh viên không tồn tại"</string>
+
+    <string name="tenmon">"Tên môn"</string>
+    <string name="diemck">"Điểm thi"</string>
+    <string name="diemtb">"Điểm TB"</string>
+    <string name="diemchu">"Điểm chữ"</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="tkb">"Xem thời khóa biểu"</string>
+    <string name="diemthi">"Xem điểm thi"</string>
+    <string name="lichthi">"Xem lịch thi"</string>
+    <string name="aboutus">"About Us"</string>
+
+    <string name="wrong_msv">"Mã sinh viên không tồn tại"</string>
+
+    <string name="null_msv">"Yêu cầu nhập mã sinh viên"</string>
+    <string name="short_msv">"Mã sinh viên không đủ 10 ký tự"</string>
+
+    <string name="message_opp">"Oopp! Có lỗi"</string>
+    <string name="massage_sapra">"Tính năng đang được xây dựng"</string>
+    <string name="massage_dungroi">"Xin đừng rời đi"</string>
+</resources>

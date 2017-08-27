@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="colorRedHonda">#eb1a2f</color>
+    <color name="black">#030303</color>
+
+    <color name="transparent_black">#80000000</color>
+    <color name="colorRed">#ec1b20</color>
+    <color name="colorDimGray">#959595</color>
+    <color name="colorGray">#7d7d7d</color>
+    <color name="colorTextDark">#B7B7B7</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorDarkWhite">#F4F4F4</color>
+    <color name="colorDarkCorner">#F5F5F5</color>
+    <color name="colorDarkGray">#333333</color>
+    <color name="colorStatusBar">#E33042</color>
+    <color name="actionbar_opacity">#33000000</color>
+
+    <color name="background">#F5F5DC</color>
+    <color name="title">#6699CC</color>
+
+    <color name="background_error">#efefef</color>
+    <color name="text_error">#3e93af</color>
+
+</resources>
